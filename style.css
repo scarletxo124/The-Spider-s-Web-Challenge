@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./Picture/Web-Background.png');
+    background-image: url('./Web-Background.png');
     background-size: cover;
     background-position: center;
     position: relative;
